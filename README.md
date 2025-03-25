@@ -18,5 +18,5 @@ A test script (`test_degrees.py`) has been developed to verify the correct opera
 
 ### Usage
 
-main: `python3 degrees.py small`
-test: `python3 test_degrees.py`
+- main: `python3 degrees.py small`
+- test: `python3 test_degrees.py`
